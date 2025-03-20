@@ -1,0 +1,51 @@
+Training_ID,Employee_ID,Training_Program,Training_Hours,Completion_Date
+1,1,Agile Methodologies,10,2023-06-15
+2,2,Digital Marketing,8,2023-06-20
+3,3,Employee Relations,6,2023-06-10
+4,4,Cloud Computing,12,2023-06-25
+5,5,Sales Techniques,5,2023-06-30
+6,6,Data Analysis,15,2023-06-05
+7,7,Recruitment Strategies,8,2023-06-12
+8,8,Content Marketing,7,2023-06-18
+9,9,Negotiation Skills,6,2023-06-28
+10,10,Project Management Basics,10,2023-06-15
+11,11,Advanced Excel,18,2023-07-01
+12,12,Leadership Skills,10,2023-04-25
+13,13,Data Science Fundamentals,13,2023-08-10
+14,14,Customer Service,11,2023-05-18
+15,15,Agile Methodologies,12,2023-06-14
+16,16,Recruitment Strategies,9,2023-03-07
+17,17,Content Marketing,10,2023-02-20
+18,18,Negotiation Skills,8,2023-10-05
+19,19,Sales Techniques,14,2023-09-14
+20,20,Digital Marketing,7,2023-06-27
+21,21,Agile Methodologies,11,2023-05-25
+22,22,Cloud Computing,15,2023-04-12
+23,23,Project Management Basics,9,2023-07-10
+24,24,Time Management,5,2023-06-15
+25,25,Customer Service,6,2023-03-20
+26,26,Sales Techniques,16,2023-11-10
+27,27,Content Marketing,13,2023-04-07
+28,28,Advanced Excel,18,2023-05-01
+29,29,Data Science Fundamentals,10,2023-08-21
+30,30,Cloud Computing,9,2023-02-10
+31,31,Leadership Skills,15,2023-12-15
+32,32,Agile Methodologies,14,2023-06-03
+33,33,Negotiation Skills,7,2023-06-27
+34,34,Customer Service,8,2023-11-17
+35,35,Recruitment Strategies,6,2023-10-22
+36,36,Time Management,8,2023-03-04
+37,37,Data Analysis,12,2023-05-10
+38,38,Project Management Basics,11,2023-06-22
+39,39,Cloud Computing,10,2023-04-02
+40,40,Content Marketing,12,2023-07-23
+41,41,Sales Techniques,9,2023-05-15
+42,42,Digital Marketing,6,2023-08-08
+43,43,Leadership Skills,17,2023-03-12
+44,44,Advanced Excel,13,2023-06-02
+45,45,Customer Service,5,2023-09-04
+46,46,Data Analysis,14,2023-05-05
+47,47,Agile Methodologies,8,2023-03-13
+48,48,Negotiation Skills,10,2023-12-20
+49,49,Project Management Basics,11,2023-06-05
+50,50,Recruitment Strategies,10,2023-06-30
